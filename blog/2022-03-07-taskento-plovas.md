@@ -67,10 +67,3 @@ Devzira “Dastar-saryk” 1.7-1.9ltr
 Uzbekiški “Lazer/Lazur’: 1.2 – 1.4ltr
 Basmati “Galinta”: 1.2ltr.
 Basmati “Sela”: 1.8ltr.
-
-
-Proporcijos:
-2 kg ryziu - 2 kg mesos - 2kg morku - 300-400 g aliejaus - 600 g svogunu - 5 l vandens
-1kg ryziu - 2,5 l vandens. (priklauso nuo ryžių kokybės)
-2kg ryziu - 3 l vandens. 
-5 kg - 5 l vandens
