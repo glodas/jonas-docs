@@ -1,4 +1,7 @@
-## Mastava (sriuba su mėsa ir ryžiais)
+---
+id: mastava
+title: Mastava (sriuba su mėsa ir ryžiais)
+---
 
 Tai puikaus skonio uzbekų virtuvės patiekas -  sriuba Mastava su mėsa ir ryžiais. Pagal originalų receptą jai pagaminti reikia kazano, tačiau čia pateiksiu būdą pasigaminti ją namų sąlygomis. Tik turėkite pasiruošę 4-5 l puodą ir didelę keptuvę.
 
