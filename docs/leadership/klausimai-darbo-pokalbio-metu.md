@@ -36,7 +36,7 @@ Kad būtų šiltesnė atmosfera, dažniausiai pradedu nuo bendrų, neįpareigoja
 - Kokie tavo tikslai?
 - Kokios darbo sąlygos tikiesi naujame darbe?
 
-4. Žinios (<> išsilavinimas)
+4. Žinios (ne tas pats, kas išsilavinimas)
 
 - Kokius įrankius naudoji darbui?
 - Su kokiais atviro kodo produktais yra tekę dirbti?
