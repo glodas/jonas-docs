@@ -64,9 +64,9 @@ const config = {
       // Replace with your project's social card
       image: 'img/docusaurus-social-card.jpg',
       navbar: {
-        title: 'Jonas Blog',
+        title: '21.lt',
         logo: {
-          alt: 'Jonas Blog Logo',
+          alt: '21.lt Logo',
           src: 'img/logo.svg',
         },
         items: [
@@ -127,7 +127,7 @@ const config = {
             ],
           },
         ],
-        copyright: `Copyright © ${new Date().getFullYear()} Jonas Blog. Built with Docusaurus.`,
+        copyright: `Copyright © ${new Date().getFullYear()} 21.lt. Built with Docusaurus.`,
       },
       prism: {
         theme: lightCodeTheme,
