@@ -7,3 +7,5 @@ tags: [citatos]
 
 
 The Grass Isn’t Greener On the Other Side, It’s greener where you water it. 
+
+If you have the wrong thing, and then you automate it - you’re doing the wrong things faster.
