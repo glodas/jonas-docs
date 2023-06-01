@@ -1,8 +1,8 @@
 ---
-slug: taskento-plovas
-title: Taškento plovas
+slug: startup-patarimai
+title: Startup patarimai
 authors: jonas
-tags: [maistas, uzbeku virtuve]
+tags: [verslas, startup]
 ---
 
 Kelios mintys, kurias užsirašiau iš susitikimo su investuotoju Hong Konge:
