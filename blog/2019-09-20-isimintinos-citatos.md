@@ -9,3 +9,11 @@ tags: [citatos]
 The Grass Isn’t Greener On the Other Side, It’s greener where you water it. 
 
 If you have the wrong thing, and then you automate it - you’re doing the wrong things faster.
+
+“The key is not to prioritize what’s on your schedule, but to schedule your priorities.”
+Stephen Covey
+
+"Don’t touch your phone - it’s training you to be distracted."
+
+“The inbox is nothing but a convenient organizational system for other people’s agenda for your life”
+Brendon Burchard
