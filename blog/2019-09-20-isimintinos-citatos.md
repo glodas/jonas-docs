@@ -17,3 +17,6 @@ Stephen Covey
 
 “The inbox is nothing but a convenient organizational system for other people’s agenda for your life”
 Brendon Burchard
+
+Why products suck? There's no clear audience for the product, it doesn't solve a problem, it lacks differentiation, or its simply inferior to the mass supply of similar products available online (probably at cheaper prices). 
+Sam Owens
