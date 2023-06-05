@@ -7,7 +7,7 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 /** @type {import('@docusaurus/types').Config} */
 const config = {
   title: '21.lt',
-  tagline: 'Kasdieniškos mintys ir atradimai',
+  tagline: 'Kasdieniniai atradimai',
   favicon: 'img/favicon.ico',
 
   // Set the production url of your site here
