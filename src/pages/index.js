@@ -4,7 +4,7 @@ import Link from '@docusaurus/Link';
 import useDocusaurusContext from '@docusaurus/useDocusaurusContext';
 import Layout from '@theme/Layout';
 import HomepageFeatures from '@site/src/components/HomepageFeatures';
-import BlogPost from '@theme/BlogPost'; // Import the BlogPost component
+import { BlogPostItem, useLatestBlogPosts } from '@theme/BlogListPage';
 
 import styles from './index.module.css';
 
@@ -35,7 +35,12 @@ export default function Home() {
       title={`${siteConfig.title}`}
       description="Description will go into a meta tag in <head />">
       <HomepageHeader />
-      <BlogPost post={latestBlogPost} />
+      <main>
+        <h2>Latest Blog Posts</h2>
+        {latestBlogPosts.map((post) => (
+          <BlogPostItem key={post.id} frontMatter={post.frontMatter} />
+        ))}
+      </main>
     </Layout>
   );
 }
