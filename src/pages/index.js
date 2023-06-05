@@ -4,7 +4,7 @@ import Link from '@docusaurus/Link';
 import useDocusaurusContext from '@docusaurus/useDocusaurusContext';
 import Layout from '@theme/Layout';
 import HomepageFeatures from '@site/src/components/HomepageFeatures';
-import BlogPostItem from '@theme/BlogPostItem';
+import { BlogListPage, BlogPostItem } from '@theme/BlogListPage';
 
 import styles from './index.module.css';
 
@@ -30,7 +30,7 @@ function HomepageHeader() {
 
 export default function Home() {
   const {siteConfig} = useDocusaurusContext();
-  const { items: latestBlogPosts } = useLatestBlogPosts();
+  const { metadata, items } = BlogListPage.useData();
   return (
     <Layout
       title={`${siteConfig.title}`}
@@ -38,8 +38,8 @@ export default function Home() {
       <HomepageHeader />
       <main>
         <h2>Latest Blog Posts</h2>
-        {latestBlogPosts.map((post) => (
-          <BlogPostItem key={post.id} frontMatter={post.frontMatter} metadata={post.metadata} truncated={false} />
+        {items.map((post) => (
+          <BlogPostItem key={post.id} frontMatter={post.frontMatter} metadata={metadata} truncated={false} />
         ))}
       </main>
     </Layout>
