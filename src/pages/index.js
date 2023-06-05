@@ -36,11 +36,6 @@ export default function Home() {
       description="Description will go into a meta tag in <head />">
       <HomepageHeader />
       <BlogPost post={latestBlogPost} /
-      {/*
-      <main>
-        <HomepageFeatures />
-      </main>
-      */}
     </Layout>
   );
 }
