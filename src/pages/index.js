@@ -33,11 +33,11 @@ export default function Home() {
       title={`${siteConfig.title}`}
       description="Description will go into a meta tag in <head />">
       <HomepageHeader />
-      {/*
+      /*
       <main>
         <HomepageFeatures />
       </main>
-      /*}
+      /*
     </Layout>
   );
 }
