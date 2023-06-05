@@ -35,7 +35,7 @@ export default function Home() {
       title={`${siteConfig.title}`}
       description="Description will go into a meta tag in <head />">
       <HomepageHeader />
-      <BlogPost post={latestBlogPost} /
+      <BlogPost post={latestBlogPost} />
     </Layout>
   );
 }
