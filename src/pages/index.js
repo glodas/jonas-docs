@@ -4,13 +4,12 @@ import Link from '@docusaurus/Link';
 import useDocusaurusContext from '@docusaurus/useDocusaurusContext';
 import Layout from '@theme/Layout';
 import HomepageFeatures from '@site/src/components/HomepageFeatures';
-import { BlogPostItem } from '@theme/BlogPostItem';
+import BlogPostItem from '@theme/BlogPostItem';
 
 import styles from './index.module.css';
 
 function HomepageHeader() {
   const {siteConfig} = useDocusaurusContext();
-  const { items: latestBlogPosts } = useLatestBlogPosts();
   return (
     <header className={clsx('hero hero--primary', styles.heroBanner)}>
       <div className="container">
@@ -31,6 +30,7 @@ function HomepageHeader() {
 
 export default function Home() {
   const {siteConfig} = useDocusaurusContext();
+  const { items: latestBlogPosts } = useLatestBlogPosts();
   return (
     <Layout
       title={`${siteConfig.title}`}
@@ -39,7 +39,7 @@ export default function Home() {
       <main>
         <h2>Latest Blog Posts</h2>
         {latestBlogPosts.map((post) => (
-          <BlogPostItem key={post.id} frontMatter={post.frontMatter} />
+          <BlogPostItem key={post.id} frontMatter={post.frontMatter} metadata={post.metadata} truncated={false} />
         ))}
       </main>
     </Layout>
