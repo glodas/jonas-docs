@@ -4,12 +4,13 @@ import Link from '@docusaurus/Link';
 import useDocusaurusContext from '@docusaurus/useDocusaurusContext';
 import Layout from '@theme/Layout';
 import HomepageFeatures from '@site/src/components/HomepageFeatures';
-import { BlogPostItem, useLatestBlogPosts } from '@theme/BlogListPage';
+import { BlogPostItem } from '@theme/BlogPostItem';
 
 import styles from './index.module.css';
 
 function HomepageHeader() {
   const {siteConfig} = useDocusaurusContext();
+  const { items: latestBlogPosts } = useLatestBlogPosts();
   return (
     <header className={clsx('hero hero--primary', styles.heroBanner)}>
       <div className="container">
