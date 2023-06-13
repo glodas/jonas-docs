@@ -41,6 +41,7 @@ Bandau rasti, kas galėtų ją atskirai instaliuoti ir kiek tai kainuotų. Iešk
 
 - electrozafiro.com (whatsapp +34 678 16 27 35) - nedaro.
 - tallersalamanca.com - parašiau
+- teknicar.es (whatsap +34 683 55 76 35) - parašiau
 
 
 ### Apžvalgos
