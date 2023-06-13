@@ -39,7 +39,7 @@ Gavau info, kad visi modeliai kanaruose yra be 360 kameros... ir jos neva negali
 
 Bandau rasti, kas galėtų ją atskirai instaliuoti ir kiek tai kainuotų. Ieškau servisų, kurie dirbtų su elektra.
 
-- electrozafiro.com - nedaro.
+- electrozafiro.com (whatsapp +34 678 16 27 35) - nedaro.
 - tallersalamanca.com - parašiau
 
 
