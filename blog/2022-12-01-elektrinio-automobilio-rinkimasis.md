@@ -34,7 +34,11 @@ Panašiai kaip XC40
 ## Audi Q4
 
 
-### Šiuo metu galimi modeliai Kanaruose
+### 360 kamera
+Gavau info, kad visi modeliai kanaruose yra be 360 kameros... ir jos neva negali įdiegti, reiktų užsakyti pilnai auto iš gamyklos ir ta kamera 795 eur kainuotų.
+
+Bandau rasti, kas galėtų ją atskirai instaliuoti ir kiek tai kainuotų.
+
 
 
 ### Apžvalgos
