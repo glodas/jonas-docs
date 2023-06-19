@@ -25,22 +25,18 @@ function HomepageHeader() {
         </div>
       </div>
     </header>
-   );
+  );
 }
 
 export default function Home() {
   const {siteConfig} = useDocusaurusContext();
-  const { metadata, items } = BlogListPage.useData();
   return (
     <Layout
-      title={`${siteConfig.title}`}
+      title={`Hello from ${siteConfig.title}`}
       description="Description will go into a meta tag in <head />">
       <HomepageHeader />
       <main>
-        <h2>Latest Blog Posts</h2>
-        {items.map((post) => (
-          <BlogPostItem key={post.id} frontMatter={post.frontMatter} metadata={metadata} truncated={false} />
-        ))}
+        <HomepageFeatures />
       </main>
     </Layout>
   );
