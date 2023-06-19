@@ -25,6 +25,7 @@ function HomepageHeader() {
         </div>
       </div>
     </header>
+   );
 }
 
 export default function Home() {
