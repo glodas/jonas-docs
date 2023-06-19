@@ -22,7 +22,7 @@ function HomepageHeader() {
             to="/docs/intro">
             Docusaurus Tutorial - 5min ⏱️
           </Link>
-        </div>}
+        </div>
       </div>
     </header>
 }
