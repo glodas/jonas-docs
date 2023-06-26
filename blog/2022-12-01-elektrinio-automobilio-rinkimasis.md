@@ -61,4 +61,29 @@ Realiai daugmaž visi sako, kad reiktų krauti trumpoms distancijoms iki 80%, o 
 - https://www.audi-mediacenter.com/en/a-wide-range-of-charging-solutionsaudi-makes-it-easy-to-experience-e-mobility-14389/charging-tips-14394
 - https://www.e-tronforum.com/threads/best-charging-practices-for-even-better-battery-life.1606/
 - https://www.geotab.com/blog/ev-battery-health/
-- 
+
+### Svoris ir padidintas pavojus
+Gavau papildomos informacijos iš elektromobilio skeptiko. Jo mintis yra tokia, kad elektromobiliai yra daug sunkesni už paprastus tad avarijos atveju žala yra daug didesnė. Neva padangos išlieka tos pačios, bet svorį stabdymo metu turi daug didesnį sustabdyti. 
+
+Dėl įdomumo palyginau panašaus dydžio automobilius.
+
+Audi Q5 (1890 kg)
+Audi Q4 e-tron (2125 kg)
+Tesla Y (2054 kg)
+
+Tai realiai Q4 sunkesnė už Q5 225 kg. Neatrodo tiek daug. 
+
+Dar radau, kaip atrodo saugumo testų video su Audi Q4 e-tron:
+https://www.youtube.com/watch?v=5H-6JjP2gAI
+https://www.youtube.com/watch?v=5KsvWcoLk40
+
+Tad šiai dienai nemanau, kad tai (svoris) realus pavojus saugumui.
+
+### Konspiracijos teorijos
+Skaičiau tokį straipsnį: https://www.dailymail.co.uk/news/article-11281757/amp/The-cost-electric-cars-EVs-vehicle-government-control.html
+
+Realiai jis teigia, kad su elektromobiliu realiai tampi priklausomas nuo vyriausybės, kuri gali bet kada ir bet kur tave sekti, atjungti automobilį, neleisti kažkur įvažiuoti ir pan. 
+
+Tačiau tą patį galima pasakyti ir apie mokėjimo korteles, kad bet kada gali jas atjungti, apriboti ir liksi be pinigų. 
+
+Teorija apie visišką autonomiją net nežinau,ar galima tikėti, kad tokia gali būti. Net ir su benzininiu automobiliu esi priklausomas nuo kuro, modernūs auto irgi jau pilni elektronikos, automobilius reikia kažkur remontuoti, gauti detales ir pan. 
