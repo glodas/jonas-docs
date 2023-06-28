@@ -26,3 +26,6 @@ Atrodo silpnai. Tik kainos ir addon su Fundamental data.
 
 ### tradier.com
 Nelabai daug duomenų turi.
+
+### eodhistoricaldata.com
+Neturi estimates duomenų. Gan brangu už visą kitą per mėnesį.
