@@ -16,10 +16,12 @@ Kokių duomenų man reikia:
 ### financialmodelingprep.com
 Pasibandžiau mėnesį. Didžiausia programa - duomenų neatitikimas su yahoo. Nelabai galiu pasitikėti. Privalumas - sąlyginai žema API kaina. 
 
-###  alphavantage.co
+### alphavantage.co
 Turi daug duomenų, įskaitant ekonominius rodiklius, kas yra didenis privalumas. Tačiau nerandu duomenų tokių kaip pvz. revenue estimates.
 Beto Premium kaina truputį aukšta.
 
+### polygon.io
+Nerandu estimates data: https://polygon.io/docs/stocks/getting-started
 
 ### tiingo.com
 Atrodo silpnai. Tik kainos ir addon su Fundamental data.
