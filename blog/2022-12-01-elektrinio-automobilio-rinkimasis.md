@@ -11,8 +11,7 @@ tags: [auto, elektra]
 S Line komplektacija. Padarytas ant ID.4 bazės. Kolkas favoritas.
 
 - Mercedes EQA 250
-Padarytas ant benzinio bazės. Tad grindys aukštokos ir keliai labai aukštai gale.
-
+Padarytas ant benzinio bazės. Tad grindys aukštokos ir keliai labai aukštai gale. Gera daniška apžvalga yra čia: https://youtu.be/AhcwL_Lsi3Y
 - Volkswagen ID.4
 
 - Volkswagen ID.5
@@ -61,7 +60,8 @@ Realiai daugmaž visi sako, kad reiktų krauti trumpoms distancijoms iki 80%, o 
 - https://www.audi-mediacenter.com/en/a-wide-range-of-charging-solutionsaudi-makes-it-easy-to-experience-e-mobility-14389/charging-tips-14394
 - https://www.e-tronforum.com/threads/best-charging-practices-for-even-better-battery-life.1606/
 - https://www.geotab.com/blog/ev-battery-health/
-
+- https://www.youtube.com/watch?v=QRPze4f0gsQ
+- 
 ### Svoris ir padidintas pavojus
 Gavau papildomos informacijos iš elektromobilio skeptiko. Jo mintis yra tokia, kad elektromobiliai yra daug sunkesni už paprastus tad avarijos atveju žala yra daug didesnė. Neva padangos išlieka tos pačios, bet svorį stabdymo metu turi daug didesnį sustabdyti. 
 
