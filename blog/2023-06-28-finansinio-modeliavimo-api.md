@@ -31,3 +31,6 @@ Nelabai daug duomenų turi.
 
 ### eodhistoricaldata.com
 Neturi estimates duomenų. Gan brangu už visą kitą per mėnesį.
+
+### twelvedata.com
+Atrodo neblogai. Bandom.
