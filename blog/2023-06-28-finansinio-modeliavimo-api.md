@@ -33,4 +33,4 @@ Nelabai daug duomenų turi.
 Neturi estimates duomenų. Gan brangu už visą kitą per mėnesį.
 
 ### twelvedata.com
-Atrodo neblogai. Bandom.
+Atrodo neblogai. Bandom. Duomenys panašu teisingi. Tik, kad leidžia revenue estimates tik enterprise planams, kurie yra gan brangūs...
