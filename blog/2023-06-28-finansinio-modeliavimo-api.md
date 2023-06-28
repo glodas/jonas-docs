@@ -7,9 +7,22 @@ tags: [finansai, programavimas]
 
 Noriu pasibandyti finansinį modeliavimą naudojantis API. Štai ką svarstau.
 
+Kokių duomenų man reikia:
+- Earnings ir non-earnings naujienų.
+- Analyst estimates (revenue, earnings)
+- Economic data (pvz. GDP, oil, cooper, etc kainos)
+- 
+
 ### financialmodelingprep.com
 Pasibandžiau mėnesį. Didžiausia programa - duomenų neatitikimas su yahoo. Nelabai galiu pasitikėti. Privalumas - sąlyginai žema API kaina. 
 
 ###  alphavantage.co
 Turi daug duomenų, įskaitant ekonominius rodiklius, kas yra didenis privalumas. Tačiau nerandu duomenų tokių kaip pvz. revenue estimates.
+Beto Premium kaina truputį aukšta.
 
+
+### tiingo.com
+Atrodo silpnai. Tik kainos ir addon su Fundamental data.
+
+### tradier.com
+Nelabai daug duomenų turi.
