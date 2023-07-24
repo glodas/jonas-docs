@@ -20,3 +20,6 @@ Brendon Burchard
 
 Why products suck? There's no clear audience for the product, it doesn't solve a problem, it lacks differentiation, or its simply inferior to the mass supply of similar products available online (probably at cheaper prices). 
 Sam Owens
+
+
+"Most of the time you don't need more information, you need more courage." James Clear
