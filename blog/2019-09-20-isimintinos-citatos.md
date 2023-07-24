@@ -23,3 +23,9 @@ Sam Owens
 
 
 "Most of the time you don't need more information, you need more courage." James Clear
+
+
+
+"Negalime sutikti Dievo nenukryžiavę savo ribotų minčių apie dievą, kuris atspindi mūsų supratimą apie visagalybę ir galią." (Popiežius Pranciškus)
+
+"Dievas yra. Atsipalaiduok. Jis - ne tu."
