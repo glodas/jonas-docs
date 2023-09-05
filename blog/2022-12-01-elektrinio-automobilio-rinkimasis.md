@@ -61,7 +61,10 @@ Realiai daugmaž visi sako, kad reiktų krauti trumpoms distancijoms iki 80%, o 
 - https://www.e-tronforum.com/threads/best-charging-practices-for-even-better-battery-life.1606/
 - https://www.geotab.com/blog/ev-battery-health/
 - https://www.youtube.com/watch?v=QRPze4f0gsQ
-- 
+
+### Baterijos nusidėvėjimo paskaičiavimas
+- https://electrichasgoneaudi.net/guides/checkingbatteryhealth/
+  
 ### Svoris ir padidintas pavojus
 Gavau papildomos informacijos iš elektromobilio skeptiko. Jo mintis yra tokia, kad elektromobiliai yra daug sunkesni už paprastus tad avarijos atveju žala yra daug didesnė. Neva padangos išlieka tos pačios, bet svorį stabdymo metu turi daug didesnį sustabdyti. 
 
