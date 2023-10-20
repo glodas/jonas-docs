@@ -14,3 +14,10 @@ Atsibodo jau pirkt ir nešioti plastikinius butelius, tad pradėjau žiūrėti, 
 - neeikvoti vandens be reikalo
 - greitas filtruoto vandens tekėjimas
 - lengva ir nebrangu rast filtrus pakeitimui
+
+
+## Svarstomos sistemos
+- 3/4 filtrų sistema po kriaukle
+- reverse osmosis su reminalizacija ir be atskiro indo vandeniui
+
+
