@@ -8,7 +8,11 @@ tags: [kanarai, tenerife, parduotuves, siuntimas]
 Parduotuvės, kurios siunčia į kanarus:
 
 
+## Virtuvės
 - cucute.com
-- marialunarillos.com
-- vitamixespana.com
-  
+- marialunarillos.com (12 eur pristatymas)
+- vitamixespana.com (nemokamas pristatymas)
+
+
+## Sporto
+- ekosport.es (35 eur pristatymas)
