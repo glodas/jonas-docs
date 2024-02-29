@@ -16,3 +16,4 @@ Parduotuvės, kurios siunčia į kanarus:
 
 ## Sporto
 - ekosport.es (35 eur pristatymas)
+- nencinisport.it (16 eur pristatymas, siunčia be pvm į kanarus)
